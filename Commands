@@ -1,0 +1,8 @@
+To run this project in your system, follow these commands:
+make sure your system has anaconda if not download
+open terminal, go to command prompt
+1.conda create -p venv python==3.10 -y
+2.conda activate venv/
+after running these commands, close the present command prompt and open a new command prompt and run the below command.
+1.streamlit run app.py
+IT WORKS SUCCESSFULLY!!!!
